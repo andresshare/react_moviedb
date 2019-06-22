@@ -14,7 +14,7 @@
     "webpack-dev-server": ">=3.1.11",
     "merge": ">=1.2.1",
     "js-yaml": ">=3.13.1"
-}
+
   },
   "scripts": {
     "start": "react-scripts start",
