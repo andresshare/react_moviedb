@@ -7,7 +7,14 @@
     "react-dom": "^16.4.2",
     "react-fontawesome": "^1.6.1",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "handlebars": ">=4.0.14",
+    "lodash": ">=4.17.11",
+    "react-dev-utils": ">=5.0.2",
+    "webpack-dev-server": ">=3.1.11",
+    "merge": ">=1.2.1",
+    "js-yaml": ">=3.13.1"
+}
   },
   "scripts": {
     "start": "react-scripts start",
