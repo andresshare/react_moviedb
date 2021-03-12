@@ -10,7 +10,7 @@
     "react-scripts": "1.1.4",
     "handlebars": ">=4.0.14",
     "lodash": ">=4.17.11",
-    "react-dev-utils": ">=5.0.2",
+    "react-dev-utils": ">=11.0.4",
     "webpack-dev-server": ">=3.1.11",
     "merge": ">=1.2.1",
     "js-yaml": ">=3.13.1"
